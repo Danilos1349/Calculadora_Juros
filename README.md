@@ -1,8 +1,8 @@
-# Calculadora Financeira (Juros Simples e Compostos)
+# 🧮 Calculadora Financeira (Juros Simples e Compostos)
 
 Este projeto é uma calculadora financeira desenvolvida em Python para realizar cálculos envolvendo juros simples e juros compostos. A aplicação é interativa, executada no terminal, e permite que o usuário escolha o tipo de cálculo que deseja realizar.
 
-## Funcionalidades
+## 💡 Funcionalidades
 
 A calculadora oferece as seguintes opções:
 
@@ -26,7 +26,7 @@ Fórmula usada:
 Fórmula usada:  
 `VF = VP * (1 + i)ⁿ`
 
-## Como Executar
+## ▶️ Como Executar
 
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Salve o arquivo com o código Python (ex: `calculadora_financeira.py`).
@@ -52,3 +52,7 @@ python calculadora_financeira.py
 ## Licença
 
 Este projeto é livre para fins educacionais e pessoais.
+
+## 👨‍💻 Desenvolvido por
+
+Danilo 🧠  
